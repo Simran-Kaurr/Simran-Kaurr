@@ -9,9 +9,8 @@ I'm a full-stack developer with a passion for open-source projects and continuou
 - **Tools:** VSCode
 
 ## Projects
-- 
 - **[Bookstore website](https://github.com/janedoe/weather-app):** A web application that provides you different fiction books forecasts.
-- 
+  
 ## Contact
 - [LinkedIn](http://www.linkedin.com/in/simrankaur131911)
 - [Hackerrank](https://www.hackerrank.com/profile/simran805400)
